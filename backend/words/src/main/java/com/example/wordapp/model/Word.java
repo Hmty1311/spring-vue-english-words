@@ -1,3 +1,13 @@
-package com.example.wordapp.model;
+package com.example.wordapp.model
 
-import com.springframework.Entity; 
+import lombok.Data;
+
+@Data
+public class Word {
+  
+  private Long id;
+  private String englishn
+  private String japanese;
+  private String example;
+  
+}
