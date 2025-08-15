@@ -1,4 +1,4 @@
-package com.example.words;
+package com.example.wordapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
 package com.example.wordapp.service;
 
-import com.example.wordapp.model;
+import com.example.wordapp.model.Word;
 import com.example.wordapp.repository.WordRepository;
 import org.springframework.stereotype.Service;
 

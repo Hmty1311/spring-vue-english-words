@@ -1,7 +1,7 @@
 package com.example.wordapp.controller;
 
-import com.example.wordapp.model;
-import com.example.wordapp.facade;
+import com.example.wordapp.model.Word;
+import com.example.wordapp.facade.WordFacade;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

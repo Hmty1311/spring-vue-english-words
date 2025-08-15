@@ -1,7 +1,7 @@
 package com.example.wordapp.facade;
 
-import com.example.wordapp.model;
-import com.example.wordapp.service;
+import com.example.wordapp.model.Word;
+import com.example.wordapp.service.WordService;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
