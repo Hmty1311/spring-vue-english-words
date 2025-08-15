@@ -1,8 +1,8 @@
 package com.example.wordapp.controller;
 
-import com.example,wordapp.model;
+import com.example.wordapp.model;
 import com.example.wordapp.facade;
-import org.springframework.web.bind.annotation.Get!apping;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;

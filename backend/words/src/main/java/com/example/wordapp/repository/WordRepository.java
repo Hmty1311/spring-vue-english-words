@@ -1,6 +1,6 @@
 package com.example.wordapp.repository;
 
-import com.example,wordapp.model.Word;
+import com.example.wordapp.model.Word;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
